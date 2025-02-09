@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Joel! 👋  
 
-<!--
-**joel-cdev/joel-cdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student specializing in AI & Big Data  
+💻 Passionate about Machine Learning, Data Science & Cloud Computing  
+🚀 Currently learning Python, GitHub, and Open Source Contribution  
 
-Here are some ideas to get you started:
+🔗 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](yourwebsite.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies  
+- 🐍 Python | SQL | Git | GitHub  
+- 🤖 AI & Machine Learning  
+- ☁️ Cloud Computing (Google Cloud, AWS)  
+- 📊 Data Science & Visualization  
+
+### 📌 Featured Projects  
+- 🔹 [Project 1 - AI Chatbot](https://github.com/yourusername/project1)  
+- 🔹 [Project 2 - Data Analysis](https://github.com/yourusername/project2)  
