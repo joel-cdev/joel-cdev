@@ -6,7 +6,6 @@
 
 Computer Science student building practical intelligent systems—from low-resource NLP and distributed analytics to computer vision and AI-assisted learning tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joel-cdev.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-joel--cdev-181717?style=for-the-badge&logo=github)](https://github.com/joel-cdev)
 [![Open to Work](https://img.shields.io/badge/Open_to-Internships_%26_Entry--Level_Roles-22C55E?style=for-the-badge)](#lets-connect)
 
@@ -105,30 +104,15 @@ Built a computer-vision application that maps hand gestures to presentation cont
 </tr>
 </table>
 
-## Engineering strengths
+## Engineering toolkit
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Clean & Validate]
-    B --> C[Train & Compare]
-    C --> D[Evaluate Honestly]
-    D --> E[Package & Deploy]
-    E --> F[Document & Improve]
-```
+| 🔬 Experimentation | ⚙️ Data systems | 🚢 Delivery | 🤝 Team engineering |
+|---|---|---|---|
+| Compare full fine-tuning and LoRA under the same test conditions | Build Spark pipelines with explicit schemas and validation | Serve model inference through FastAPI | Deliver scoped features through reviewed pull requests |
+| Report accuracy, weighted F1, macro F1, and robustness—not a single headline metric | Create repeatable feature, validation, and artifact pipelines | Package applications and dashboards with Docker | Work with consent gates, protected routes, and live-session interfaces |
+| Examine class imbalance, code-mixing, residuals, and failure modes | Implement manual cross-validation and custom ensemble logic | Turn analysis outputs into usable Streamlit experiences | Document decisions, limitations, setup, and next steps |
 
-- **Machine learning:** experimental design, transformer fine-tuning, evaluation, and error analysis
-- **Data systems:** distributed processing, schemas, feature pipelines, and reproducible artifacts
-- **Delivery:** REST APIs, containerization, interactive dashboards, and developer documentation
-- **Collaboration:** scoped pull requests, code review, protected application flows, and iterative delivery
-
-## GitHub activity
-
-<div align="center">
-
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-cdev&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-cdev&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
+> **How I work:** I care about the full path from a defensible experiment to software another person can run, inspect, and improve.
 
 ## Let's connect
 
@@ -136,7 +120,6 @@ I'm open to **internship and entry-level opportunities** in machine learning, da
 
 <div align="center">
 
-[![View my work](https://img.shields.io/badge/View_My_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joel-cdev.github.io)
 [![Explore my repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/joel-cdev?tab=repositories)
 
 </div>
