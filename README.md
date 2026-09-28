@@ -104,15 +104,78 @@ Built a computer-vision application that maps hand gestures to presentation cont
 </tr>
 </table>
 
-## Engineering toolkit
+## Engineering console
 
-| 🔬 Experimentation | ⚙️ Data systems | 🚢 Delivery | 🤝 Team engineering |
-|---|---|---|---|
-| Compare full fine-tuning and LoRA under the same test conditions | Build Spark pipelines with explicit schemas and validation | Serve model inference through FastAPI | Deliver scoped features through reviewed pull requests |
-| Report accuracy, weighted F1, macro F1, and robustness—not a single headline metric | Create repeatable feature, validation, and artifact pipelines | Package applications and dashboards with Docker | Work with consent gates, protected routes, and live-session interfaces |
-| Examine class imbalance, code-mixing, residuals, and failure modes | Implement manual cross-validation and custom ensemble logic | Turn analysis outputs into usable Streamlit experiences | Document decisions, limitations, setup, and next steps |
+<div align="center">
 
-> **How I work:** I care about the full path from a defensible experiment to software another person can run, inspect, and improve.
+![Build](https://img.shields.io/badge/BUILD-reproducible-00D4FF?style=for-the-badge&labelColor=0D1117)
+![Measure](https://img.shields.io/badge/MEASURE-multiple_metrics-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![Ship](https://img.shields.io/badge/SHIP-containerized-22C55E?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 / MODEL LAB`
+
+**Design experiments that expose trade-offs.**
+
+`mT5` `LoRA` `PyTorch` `Transformers`
+
+- Compare full and parameter-efficient fine-tuning under matched conditions
+- Track accuracy, weighted F1, macro F1, and robustness
+- Investigate class imbalance, code-mixing, and failure modes
+
+</td>
+<td width="50%" valign="top">
+
+### `02 / DATA ENGINE`
+
+**Turn imperfect data into repeatable pipelines.**
+
+`Spark` `SQL` `Pandas` `NumPy`
+
+- Enforce schemas, validation rules, and feature pipelines
+- Implement manual cross-validation and ensemble logic
+- Produce versionable metrics, predictions, and metadata
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03 / DELIVERY LAYER`
+
+**Move projects beyond the notebook.**
+
+`FastAPI` `Docker` `Streamlit` `REST`
+
+- Serve model inference through documented APIs
+- Containerize applications for reproducible execution
+- Build interactive interfaces around analysis outputs
+
+</td>
+<td width="50%" valign="top">
+
+### `04 / TEAM SYSTEMS`
+
+**Ship scoped changes in collaborative codebases.**
+
+`Git` `GitHub` `Pull Requests` `Code Review`
+
+- Work through reviewed, traceable pull requests
+- Build protected routes, consent gates, and live-session flows
+- Document setup, decisions, limitations, and next steps
+
+</td>
+</tr>
+</table>
+
+```text
+engineering_mode = "build it · measure it · ship it · explain it"
+```
 
 ## Let's connect
 
