@@ -104,6 +104,16 @@ Built a computer-vision application that maps hand gestures to presentation cont
 </tr>
 </table>
 
+
+<h3>💻 Life as a Developer</h3>
+
+<p>Code anywhere, anytime 🔥</p>
+
+<img src="IMG_3130.jpeg"
+     alt="My coding setup"
+     width="300">
+
+
 ## Engineering console
 
 <div align="center">
