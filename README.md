@@ -54,7 +54,6 @@ location   Dubai, UAE
     width="340"
   />
 
-  <p>☕ Code. Create. Repeat. 🚀</p>
 
 </div>
 
