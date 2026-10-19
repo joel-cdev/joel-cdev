@@ -205,4 +205,8 @@ I'm open to **internship and entry-level opportunities** in machine learning, da
 
 [![Explore my repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/joel-cdev?tab=repositories)
 
+
+[![Email](https://img.shields.io/badge/Email-joelr.aieng%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelr.aieng@gmail.com)
+
+
 </div>
