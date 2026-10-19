@@ -41,6 +41,24 @@ location   Dubai, UAE
 
 </div>
 
+
+<div align="center">
+
+  <h2>💻 Life Behind the Code</h2>
+
+  <p>Building, learning, and coding from anywhere.</p>
+
+  <img
+    src="./IMG_3130.jpeg"
+    alt="Developer coding setup"
+    width="340"
+  />
+
+  <p>☕ Code. Create. Repeat. 🚀</p>
+
+</div>
+
+
 ## Featured projects
 
 <table>
