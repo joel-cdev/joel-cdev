@@ -58,6 +58,19 @@ location   Dubai, UAE
 </div>
 
 
+<details>
+  <summary>When the hardware needs debugging too... 💀</summary>
+  <p align="center">
+    <img
+      src="./IMG_1997.jpeg"
+      alt="An Apple device surrounded by rice"
+      width="230"
+    />
+  </p>
+</details>
+
+
+
 ## Featured projects
 
 <table>
