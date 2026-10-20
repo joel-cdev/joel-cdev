@@ -58,16 +58,23 @@ location   Dubai, UAE
 </div>
 
 
+
 <details>
-  <summary>When the hardware needs debugging too... 💀</summary>
+  <summary>
+    <strong> When the hardware needs debugging too— there's a story here... 👀</strong>
+  </summary>
+
+  <br>
+
   <p align="center">
     <img
       src="./IMG_1997.jpeg"
-      alt="An Apple device surrounded by rice"
-      width="230"
+      alt="Well, this isn't ideal..."
+      width="300"
     />
   </p>
 </details>
+
 
 
 
